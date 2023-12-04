@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../programs/ring/libraries/ringodb"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../Downloads/py-myopl-code-master"
+		},
+		{
+			"path": "../../../../programs/ring/libraries/httpclient"
+		}
+	],
+	"settings": {}
+}
