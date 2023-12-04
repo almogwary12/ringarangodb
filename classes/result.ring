@@ -1,0 +1,4 @@
+class Result{
+    data 
+    error 
+}
